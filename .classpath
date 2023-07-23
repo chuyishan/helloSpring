@@ -1,72 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="src" path="src/main/java"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-aop-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-aop-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-aop-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-aspects-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-aspects-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-aspects-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-beans-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-beans-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-beans-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-context-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-context-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-context-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-context-indexer-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-context-indexer-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-context-indexer-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-context-support-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-context-support-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-context-support-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-core-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-core-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-core-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-expression-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-expression-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-expression-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-instrument-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-instrument-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-instrument-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-jcl-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-jcl-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-jcl-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-jdbc-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-jdbc-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-jdbc-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-jms-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-jms-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-jms-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-messaging-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-messaging-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-messaging-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-orm-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-orm-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-orm-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-oxm-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-oxm-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-oxm-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-r2dbc-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-r2dbc-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-r2dbc-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-test-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-test-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-test-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-tx-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-tx-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-tx-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-web-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-web-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-web-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-webflux-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-webflux-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-webflux-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-webmvc-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-webmvc-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-webmvc-5.3.20-sources.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-websocket-5.3.20.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-websocket-5.3.20-javadoc.jar"/>
-	<classpathentry kind="lib" path="D:/SpringSpace/HelloSpring/libs/spring-websocket-5.3.20-sources.jar"/>
-	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-beans/5.3.20/spring-beans-5.3.20.jar" sourcepath="M2_REPO/org/springframework/spring-beans/5.3.20/spring-beans-5.3.20-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-core/5.3.20/spring-core-5.3.20.jar" sourcepath="M2_REPO/org/springframework/spring-core/5.3.20/spring-core-5.3.20-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-jcl/5.3.20/spring-jcl-5.3.20.jar" sourcepath="M2_REPO/org/springframework/spring-jcl/5.3.20/spring-jcl-5.3.20-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-context/5.3.20/spring-context-5.3.20.jar" sourcepath="M2_REPO/org/springframework/spring-context/5.3.20/spring-context-5.3.20-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-aop/5.3.20/spring-aop-5.3.20.jar" sourcepath="M2_REPO/org/springframework/spring-aop/5.3.20/spring-aop-5.3.20-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-expression/5.3.20/spring-expression-5.3.20.jar" sourcepath="M2_REPO/org/springframework/spring-expression/5.3.20/spring-expression-5.3.20-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
 </classpath>
